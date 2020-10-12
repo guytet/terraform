@@ -1,3 +1,3 @@
 # terraform
-Coming soon. 
-/
+
+Basic set of modules utilizing two Terraform registery modules: VPC and ec2_instances, and from local source adding some useful security groups. 
