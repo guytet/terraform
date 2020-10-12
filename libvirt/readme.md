@@ -2,7 +2,7 @@
 Source: 
 
 - https://github.com/dmacvicar/terraform-provider-libvirt
-- https://github.com/dmacvicar/terraform-provider-libvirt
+- https://cloudinit.readthedocs.io/en/latest/topics/examples.html
 
 For quick and cheap (as in not paying for cloud computing), nice to have some standard IAC options for libvirt. 
 
